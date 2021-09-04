@@ -16,5 +16,5 @@ metadata:
  
 spec:
   type: library
-  owner: CNCF
+  owner: team-a
   lifecycle: experimental
