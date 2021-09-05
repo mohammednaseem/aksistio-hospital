@@ -5,8 +5,7 @@ metadata:
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
   annotations:
-      gitlab.com/project-id: '29345827'
-      backstage.io/kubernetes-id: value
+      gitlab.com/project-id: '29345827'       
   links:
     - title: Website
       url: http://go.io
